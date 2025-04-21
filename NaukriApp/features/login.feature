@@ -8,5 +8,5 @@ Feature: Login Functionality
     Then I should get logged in
     Examples:
       |email                          |password     |
-      |chithradgowda@gmail.com    |Chithra@123    |
+      |abcd@gmail.com    |abcd    |
 
